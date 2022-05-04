@@ -1,0 +1,14 @@
+## for application
+dash==1.20.0
+dash-bootstrap-components==0.12.2
+## to produce random data
+names==0.3.0
+## for data processing
+numpy==1.19.5
+pandas==1.1.5
+## for plotting
+plotly==4.14.3
+## for read and write excel files
+openpyxl==3.0.7
+xlrd==1.2.0
+opencv-python-headless==4.5.2.52
